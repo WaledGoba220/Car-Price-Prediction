@@ -1,5 +1,5 @@
 # Car Price Prediction 🚙
-Car Price Prediction Using Linear Regression 
+Car Price Prediction Using Linear Regression Algorithm (Supervised Learning)
 
 <br>
 <br>
